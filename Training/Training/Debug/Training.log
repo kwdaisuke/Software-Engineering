@@ -1,0 +1,5 @@
+﻿  ex10.c
+  ex9.c
+  Generating Code...
+C:\Users\daisu\source\repos\Training\Training\ex9.c(27): warning C4716: 'ex9': must return a value
+  Training.vcxproj -> C:\Users\daisu\source\repos\Training\Debug\Training.exe
