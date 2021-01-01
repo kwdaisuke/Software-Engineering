@@ -4,7 +4,7 @@
 basic C syntax
 
 ## 2. Pointer and Array
-pointer 
+pointer  
 dynamic array  
 multi dynamic array
 
