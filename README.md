@@ -1,6 +1,6 @@
 # Software-Engineering
 
-##1.Training \\
+##1.Training __
 basic C syntax
 
 ##2.Pointer and Array \\
