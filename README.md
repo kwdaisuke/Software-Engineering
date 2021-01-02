@@ -13,3 +13,10 @@ multi dynamic array
 ## 4. Algorithms
 
 ## 5. Object Oriented Programming
+
+## 6. Data Structure
+Dynamic Array
+
+## 7. Student Manager
+Student
+Student Manager
